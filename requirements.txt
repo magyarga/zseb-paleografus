@@ -1,0 +1,8 @@
+streamlit
+openai
+pypdf
+pandas
+python-dotenv
+opencv-python-headless
+streamlit-cropper
+reportlab
